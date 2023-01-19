@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there I'm Lakshya Garg 👋
+
+Learning various tech-stacks, will keep updating as I progress.
+
+Pronounce my name as Luck-Shaye 🤝
+
 
 <!--
 **Lakshyadevelops/LakshyaDevelops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
