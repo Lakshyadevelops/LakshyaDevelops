@@ -1,7 +1,5 @@
 ### Hi there I'm Lakshya Garg 👋
 
-Learning various tech-stacks, will keep updating as I progress.
-
 Pronounce my name as Luck-Shaya 🤝
 
 
